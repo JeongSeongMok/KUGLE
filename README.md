@@ -22,4 +22,4 @@
 > - ![사진](./image/img3.png)
 > - ![사진](./image/img4.png)
 > - ![사진](./image/img5.png)
-> - 실행영상 링크 : ![영상](https://youtu.be/nTHJNONnTGI)
+> - 실행영상 링크 : [![영상](http://img.youtube.com/vi/nTHJNONnTGI/0.jpg)](https://youtu.be/nTHJNONnTGI?t=0s) 
