@@ -22,4 +22,4 @@
 > - ![사진](./image/img3.png)
 > - ![사진](./image/img4.png)
 > - ![사진](./image/img5.png)
-> - 실행영상 <br/> {% include a.html id="nTHJNONnTGI" %}  
+> - 실행영상 <br/> <iframe width="956" height="538" src="https://www.youtube.com/embed/ozv4q2ov3Mk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
